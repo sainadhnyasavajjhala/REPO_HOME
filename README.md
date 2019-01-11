@@ -1,2 +1,2 @@
 # REPO_HOME
-Folder for version controlling fitnesse scripts
+Trying to create my first version controlled file and folder.
